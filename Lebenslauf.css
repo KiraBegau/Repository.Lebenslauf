@@ -1,0 +1,126 @@
+header h1 {
+  font-family: helvetica;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+h1 {
+  background-color: midnightblue;
+  color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.name-block {
+  background-color: midnightblue;
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.name-block h1 {
+  color: white;
+  margin: 0;
+  font-size: 2em;
+}
+#Image {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.Kontakt {
+  width: 400px;
+  margin: 10px auto 10px;
+  text-align: center;
+  padding: 5px;
+  border-radius: 8px;
+}
+.divider {
+  border: none;
+  border-top: 1px solid midnightblue;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+.divider2 {
+  border: none;
+  border-top: 1px solid midnightblue;
+  margin-top: 1px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+body {
+  background-color: mintcream;
+}
+.About {
+  width: 600px;
+  margin: 0 auto 40px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid midnightblue;
+}
+.About h2 {
+  color: midnightblue;
+}
+.Education {
+  background-color: #b0b3fe;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  width: 600px;
+  margin: 0 auto 30px;
+}
+.Experience {
+  background-color: #9b9eff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  width: 600px;
+  margin: 0 auto 30px;
+}
+.Skills {
+  background-color: #8b8fff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  width: 600px;
+  margin: 0 auto;
+}
+h1 {
+  color: midnightblue;
+  margin-bottom: 1em;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul {
+  color: midnightblue;
+}
+
+main h2 {
+  color: midnightblue;
+  font-family: ;
+}
+main p {
+  color: midnightblue;
+}
+main ul {
+  color: midnightblue;
+}
+footer {
+  text-align: center;
+  background-color: midnightblue;
+  width: 100%;
+  color: white;
+}
